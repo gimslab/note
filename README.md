@@ -4,9 +4,7 @@ You can use the [editor on GitHub](https://github.com/gimslab/note/edit/main/REA
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[docs/](docs/)
-
-[link](docs/README.md)
+[docs/](docs/index.md)
 
 [same page](page2.md)
 
