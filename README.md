@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [link](docs/README.md)
 
-[sale page](page2.md)
+[same page](page2.md)
 
 ### Markdown
 
